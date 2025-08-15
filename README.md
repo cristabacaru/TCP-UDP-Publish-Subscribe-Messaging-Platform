@@ -2,7 +2,6 @@
 
 ## Overview
 This project implements a **real-time messaging platform** based on the publish–subscribe model.  
-It was built in **C** as part of the Communication Protocols course at POLITEHNICA University of Bucharest.
 
 The system allows UDP clients to publish messages to specific topics, while TCP clients can subscribe (with or without wildcards) to receive only the messages they are interested in.
 
